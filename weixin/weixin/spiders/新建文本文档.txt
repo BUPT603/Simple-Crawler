@@ -1,0 +1,2 @@
+//div[@class='txt-box']/h3
+//div[@class='p-fy']/a[@id='sogou_next']
